@@ -314,9 +314,7 @@
         .list {
             list-style: circle;
             padding-left: 30px
-        }
-
-        .list li {
+        }.list li{
             margin-bottom: 10px
         }
 
@@ -675,7 +673,7 @@
             }
         }
 
-        @media only screen and (max-width:600px) and (min-width:101px) {
+        @media only screen and (max-width:600px)and (min-width:101px) {
             .container {
                 width: 95%;
             }
@@ -720,8 +718,8 @@
     <section class="banner-block">
         <div class="container">
             <div class="btn-group">
-                <a href="https://is.gd/yQEzwY" class="btn btn-warning">Daftar</a>
-                <a href="https://is.gd/yQEzwY" class="btn btn-blue">Login</a>
+                <a href="https://www.xn--86cz0a6ab.com/" class="btn btn-warning">Daftar</a>
+                <a href="https://www.xn--86cz0a6ab.com/" class="btn btn-blue">Login</a>
             </div>
         </div>
     </section>
@@ -876,7 +874,7 @@
 
                         <p>Buat yang mencari situs agen slot Pulsa bertindak&nbsp;selaku ditemui dengan slot dana
                             deposit tanpa potongan&nbsp; antara servis situs judi slot dana 10 Ribu yang terima deposit
-                            manfaatkan pulsa. Ditambahkan&nbsp;lagi bisa cicipi sejumlah ratus slot deposit dana 10 Ribu
+                            manfaatkan pulsa. Ditambahkan&nbsp;lagi bisa cicipisejumlahratus slot deposit dana 10 Ribu
                             dari provider teratas lewat pulsa di sini tanpa potongan. Slot pulsa tanpa potongan tanpa
                             batasan ada kapan&nbsp;waktu buat ingin main slot. Cuman karena ada situs link sah slot
                             pulsa teratas yang dapat kasih apa&nbsp;yang anda butuhkan di&nbsp;waktu main slot dana 10
@@ -956,7 +954,7 @@
                             termashyur di Indonesia.</p>
                         <h2>Cara Daftar Akun Di Situs Slot Deposit Dana Ovo Tanpa Potongan</h2>
                         <p>Daftar Situs slot Deposit DANA dari program DANA adalah satu&nbsp;diantaranya keuntungan
-                            yang&nbsp;bisa didapat dari account DANA ini. Metode jalankan deposit slot qq melintasi DANA
+                            yang&nbsp;bisadidapatdari account DANA ini. Metode jalankan deposit slot qq melintasi DANA
                             serius simpel serta simpel. Pertama, Anda mesti mempersiapkan account DANA premium dengan
                             mendaftarkan serta mempertingkat account wajar dengan data yang dipinta. Seusai tuntas, Anda
                             mulai&nbsp;bisa mendaftarkan account slot tanpa account memanfaatkan account DANA dengan

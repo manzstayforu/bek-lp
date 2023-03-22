@@ -718,8 +718,8 @@
     <section class="banner-block">
         <div class="container">
             <div class="btn-group">
-                <a href="https://www.xn--86cz0a6ab.com/" class="btn btn-warning">Daftar</a>
-                <a href="https://www.xn--86cz0a6ab.com/" class="btn btn-blue">Login</a>
+                <a href="https://xn--z4x75dks.com/" class="btn btn-warning">Daftar</a>
+                <a href="https://xn--z4x75dks.com/" class="btn btn-blue">Login</a>
             </div>
         </div>
     </section>

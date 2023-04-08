@@ -16,7 +16,7 @@
           <meta name="apple-mobile-web-app-status-bar-style" content="default"/>
           <meta name="apple-mobile-web-app-capable" content="yes"/>
           <meta name="mobile-web-app-capable" content="yes"/>
-          <meta name="google-site-verification" content="MskovL6Azm1_5syDXgkCZ7ZFgqyP6BghEKliTm7kUtk" />
+          <meta name="google-site-verification" content="ynTBlsUxVBu7_4qXwJw2Xyz-MvGtgMe1ehzi6mnGsTA" />
           <meta name="language" content="ID">
           <meta name="copyright" content="Slot Demo">
           <meta name="author" content="Slot Demo">

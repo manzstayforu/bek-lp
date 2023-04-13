@@ -194,10 +194,10 @@
 <div class="col-md-8">
                 <div class="row logform">
                     <div class="col-xs-6">
-                        <a href="https://mandauslot.net/register?ref=VABABAF015A" target="_blank" rel="nofollow noreferrer"><span class="tron-login">DAFTAR</span></a>
+                        <a href="https://mandauslot.org/register?ref=VABABAF015A" target="_blank" rel="nofollow noreferrer"><span class="tron-login">DAFTAR</span></a>
                     </div>
                     <div class="col-xs-6">
-                        <a href="https://mandauslot.net/register?ref=VABABAF015A" target="_blank" rel="nofollow noreferrer"><span class="tron-regis">LOGIN</span></a>
+                        <a href="https://mandauslot.org/register?ref=VABABAF015A" target="_blank" rel="nofollow noreferrer"><span class="tron-regis">LOGIN</span></a>
                     </div>
                 </div>
             </div>
@@ -205,7 +205,7 @@
 		
         <div class="row">
             <div class="col-md-12 mt-3">
-                <a href="https://mandauslot.net/register?ref=VABABAF015A" rel="nofollow noreferrer" target="_blank"><button type="login" class="btn btn-daf">Daftar Link Situs Slot Gacor Maxwin Gampang Menang Hari Ini</a>
+                <a href="https://mandauslot.org/register?ref=VABABAF015A" rel="nofollow noreferrer" target="_blank"><button type="login" class="btn btn-daf">Daftar Link Situs Slot Gacor Maxwin Gampang Menang Hari Ini</a>
             </div>
         </div>
     </div>  
@@ -421,15 +421,15 @@
     </div>
 </div>
 <div class="fixed-footer">
-    <a href="https://mandauslot.net/register?ref=VABABAF015A" rel="nofollow noopener" target="_blank" class="#">
+    <a href="https://mandauslot.org/register?ref=VABABAF015A" rel="nofollow noopener" target="_blank" class="#">
       <amp-img layout="intrinsic" height="75" width="75" src="https://i.ibb.co/0f2vBtq/bonus.png" alt="Bonus Slot Gacor 2023"></amp-img>
       Bonus
     </a>
-    <a href="https://mandauslot.net/register?ref=VABABAF015A" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://mandauslot.org/register?ref=VABABAF015A" rel="nofollow noopener" target="_blank" class="tada">
       <amp-img class="center" layout="intrinsic" height="50" width="50" src="https://i.ibb.co/ctJhXxR/daftar-slot-terpercaya.png" alt="Daftar Slot Gacor 2023"></amp-img>
       Daftar
     </a>
-    <a href="https://mandauslot.net/register?ref=VABABAF015A" rel="nofollow noopener" target="_blank" class="#">
+    <a href="https://mandauslot.org/register?ref=VABABAF015A" rel="nofollow noopener" target="_blank" class="#">
       <amp-img class="live-chat-icon" layout="intrinsic" height="75" width="75" src="https://i.ibb.co/tqgWQK2/livechat-slot88.png" alt="Live Chat Slot Gacor 2023"></amp-img>
       Live Chat
     </a>

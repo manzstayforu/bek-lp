@@ -289,7 +289,7 @@
                 </tr>
                 <tr>
                     <td style="padding: 10px;">Daftar Sekarang</td>
-                    <td style="padding: 10px;"><a href="https://toefl.uts.ac.id/slot-gacor-hari-ini/" rel="nofollow noopener" target="_blank" title="Daftar Slot Gacor Hari Ini">KLIK DISINI</a></td>
+                    <td style="padding: 10px;"><a href="https://msi8.com/register?ref=666xn0thuman" rel="nofollow noopener" target="_blank" title="Daftar Slot Gacor Hari Ini">KLIK DISINI</a></td>
                 </tr>
             </tbody>
         </table>

@@ -103,39 +103,39 @@
                     "@context": "http://schema.org",
                     "@type": "HowTo",
                     "name": "Cara Mendaftarkan Akun di Slot Deposit Pulsa Tanpa Potongan",
-                    "description": "kami akan berikan tata cara mendaftarkan akun di slot deposit pulsa tanpa potongan.}",
+                    "description": "kami akan berikan tata cara mendaftarkan akun di slot deposit pulsa tanpa potongan.",
                     "image": "",
                     "step":[
                                                 {
                             "@type": "HowToStep",
                             "name": "",
                             "image": "https://i.ibb.co/m9dRVw9/1.jpg",
-                            "text": "1. Pada mesin pencarian google ketik slot deposit pulsa ataupun bisa juga klik link daftar yang telah kami berikan.<br>",
-                            "url": "https://toefl.uts.ac.id/slot-deposit-pulsa//#step1"
+                            "text": "1. Pada mesin pencarian google ketik slot deposit pulsa ataupun bisa juga klik link daftar yang telah kami berikan.",
+                            "url": "https://toefl.uts.ac.id/slot-deposit-pulsa/#step1"
                         },                                                {
                             "@type": "HowToStep",
                             "name": "",
                             "image": "https://i.ibb.co/h8RKKWW/2.jpg",
-                            "text": "2. Isi formulir pendaftaran dengan informasi akun data diri dan rekening yang lengkap dan klik daftar.<br>",
-                            "url": "https://toefl.uts.ac.id/slot-deposit-pulsa//#step2"
+                            "text": "2. Isi formulir pendaftaran dengan informasi akun data diri dan rekening yang lengkap dan klik daftar.",
+                            "url": "https://toefl.uts.ac.id/slot-deposit-pulsa/#step2"
                         },                                                {
                             "@type": "HowToStep",
                             "name": "",
                             "image": "https://i.ibb.co/FzH1Fth/3.jpg",
-                            "text": "3. Melakukan deposit pulsa dan isi data-datanya dengan benar.<br>",
-                            "url": "https://toefl.uts.ac.id/slot-deposit-pulsa//#step3"
+                            "text": "3. Melakukan deposit pulsa dan isi data-datanya dengan benar.",
+                            "url": "https://toefl.uts.ac.id/slot-deposit-pulsa/#step3"
                         },                                                {
                             "@type": "HowToStep",
                             "name": "",
                             "image": "https://i.ibb.co/d04wvGJ/4.jpg",
-                            "text": "4. Silahkan konfirmasi deposit dengan cara hubungi costumer service via live chat.<br>",
-                            "url": "https://toefl.uts.ac.id/slot-deposit-pulsa//#step4"
+                            "text": "4. Silahkan konfirmasi deposit dengan cara hubungi costumer service via live chat.",
+                            "url": "https://toefl.uts.ac.id/slot-deposit-pulsa/#step4"
                         },                                                {
                             "@type": "HowToStep",
                             "name": "",
                             "image": "https://i.ibb.co/x7rnvGx/5.jpg",
-                            "text": "5. Mainkan permainan slot nya dan selamat menikmati.<br>",
-                            "url": "https://toefl.uts.ac.id/slot-deposit-pulsa//#step6"
+                            "text": "5. Mainkan permainan slot nya dan selamat menikmati.",
+                            "url": "https://toefl.uts.ac.id/slot-deposit-pulsa/#step5"
                         }                                            ],
                     "tool":[
                                             ]

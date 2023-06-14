@@ -196,7 +196,7 @@ html{font-family:'Trebuchet MS';-webkit-text-size-adjust:100%;-ms-text-size-adju
         "interactionCount": "78"
         }</script>
 </head>
-<body>
+<body oncontextmenu="return false" onkeydown="return false;" onmousedown="return false;">
 <div class="navbar">
 	<div class="container">
 		<div class="row">

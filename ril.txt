@@ -209,8 +209,6 @@
 <a href="https://penilaiankinerja.bkpm.go.id:3010/public/upload/-/-/js/" style="display:none;">https://penilaiankinerja.bkpm.go.id:3010/public/upload/-/-/js/</a>
 <a href="https://koperasi.ittelkom-sby.ac.id/assets/css/-/-/macau/" style="display:none;">https://koperasi.ittelkom-sby.ac.id/assets/css/-/-/macau/</a>
 <a href="https://dishub.majenekab.go.id/public/css/-/-/js/" style="display:none;">https://dishub.majenekab.go.id/public/css/-/-/js/</a>
-<a href="https://koperasi.ittelkom-sby.ac.id/assets/css/-/-/macau/" style="display:none;">https://koperasi.ittelkom-sby.ac.id/assets/css/-/-/macau/</a>
-<a href="https://dkp.sulselprov.go.id/uploads/berita/-/-/togel-china/" style="display:none;">https://dkp.sulselprov.go.id/uploads/berita/-/-/togel-china/</a>
 <a href="https://diskominfo.gowakab.go.id/-/-/js/" style="display:none;">https://diskominfo.gowakab.go.id/-/-/js/</a>
 <a href="https://demo-berita.lumajangkab.go.id/demo/" style="display:none;">https://demo-berita.lumajangkab.go.id/demo/</a>
 <a href="https://disability.ui.ac.id/daftar-slot-dana/" style="display:none;">https://disability.ui.ac.id/daftar-slot-dana/</a>

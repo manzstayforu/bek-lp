@@ -253,3 +253,10 @@
 <a href="https://siramah.majalengkakab.go.id/public/admin/assets/toto-macau/" style="display:none;">https://siramah.majalengkakab.go.id/public/admin/assets/toto-macau/</a>
 <a href="https://ojs.stikesmucis.ac.id/public/journals/2/buku-mimpi-erek-erek/" style="display:none;">https://ojs.stikesmucis.ac.id/public/journals/2/buku-mimpi-erek-erek/</a>
 <a href="https://dishub.lumajangkab.go.id/assets/online/" style="display:none;">https://dishub.lumajangkab.go.id/assets/online/</a>
+<a href="https://porkes-fkip.upp.ac.id/-/-/taiwan/" style="display:none;">https://porkes-fkip.upp.ac.id/-/-/taiwan/</a>
+<a href="http://simpatda.mubakab.go.id/public/css/-/macau/" style="display:none;">http://simpatda.mubakab.go.id/public/css/-/macau/</a>
+<a href="https://inspektorat.sulselprov.go.id/uploads/files/-/" style="display:none;">https://inspektorat.sulselprov.go.id/uploads/files/-/</a>
+<a href="https://nursing.ui.ac.id/wp-admin/css/-/js/" style="display:none;">https://nursing.ui.ac.id/wp-admin/css/-/js/</a>
+<a href="https://nursing.ui.ac.id/app/img/pkv/" style="display:none;">https://nursing.ui.ac.id/app/img/pkv/</a>
+<a href="https://nursing.ui.ac.id/wp-admin/css/-/js/" style="display:none;">https://nursing.ui.ac.id/wp-admin/css/-/js/</a>
+<a href="https://nursing.ui.ac.id/wp-admin/-/-/toto/" style="display:none;">https://nursing.ui.ac.id/wp-admin/-/-/toto/</a>

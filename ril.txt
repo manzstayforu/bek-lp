@@ -263,3 +263,13 @@
 <a href="https://nursing.ui.ac.id/app/img/pkv/" style="display:none;">https://nursing.ui.ac.id/app/img/pkv/</a>
 <a href="https://nursing.ui.ac.id/wp-admin/css/-/js/" style="display:none;">https://nursing.ui.ac.id/wp-admin/css/-/js/</a>
 <a href="https://nursing.ui.ac.id/wp-admin/-/-/toto/" style="display:none;">https://nursing.ui.ac.id/wp-admin/-/-/toto/</a>
+<a href="https://baznas.klaten.go.id/plugins/-/" style="display:none;">https://baznas.klaten.go.id/plugins/-/</a>
+<a href="https://prodiarab.fib.ui.ac.id/wp-content/plugins/semar/" style="display:none;">https://prodiarab.fib.ui.ac.id/wp-content/plugins/semar/</a>
+<a href="https://denok-lumajang.lumajangkab.go.id/assets/file/data/-/" style="display:none;">https://denok-lumajang.lumajangkab.go.id/assets/file/data/-/</a>
+<a href="https://sisamsul.jambikota.go.id/sipadek/-/prediksi-angka-keramat/" style="display:none;">https://sisamsul.jambikota.go.id/sipadek/-/prediksi-angka-keramat/</a>
+<a href="https://bkpsdm.temanggungkab.go.id/cppis/prediksi-sgp/" style="display:none;">https://bkpsdm.temanggungkab.go.id/cppis/prediksi-sgp/</a>
+<a href="https://disdukcapil.madina.go.id/-/-/" style="display:none;">https://disdukcapil.madina.go.id/-/-/</a>
+<a href="https://ojs.stikesmucis.ac.id/-/js/" style="display:none;">https://ojs.stikesmucis.ac.id/-/js/</a>
+<a href="https://bappenda.kotimkab.go.id/img/-/" style="display:none;">https://bappenda.kotimkab.go.id/img/-/</a>
+<a href="https://siraci.sulselprov.go.id/assets/css/-/japan/" style="display:none;">https://siraci.sulselprov.go.id/assets/css/-/japan/</a>
+<a href="https://siraci.sulselprov.go.id/-/-/js/" style="display:none;">https://siraci.sulselprov.go.id/-/-/js/</a>

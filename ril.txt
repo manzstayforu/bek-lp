@@ -275,3 +275,6 @@
 <a href="https://bappenda.kotimkab.go.id/img/-/" style="display:none;">https://bappenda.kotimkab.go.id/img/-/</a>
 <a href="https://siraci.sulselprov.go.id/assets/css/-/japan/" style="display:none;">https://siraci.sulselprov.go.id/assets/css/-/japan/</a>
 <a href="https://siraci.sulselprov.go.id/-/-/js/" style="display:none;">https://siraci.sulselprov.go.id/-/-/js/</a>
+<a href="http://monitor.if.uinsgd.ac.id/-/" style="display:none;">http://monitor.if.uinsgd.ac.id/-/</a>
+<a href="http://monitor.if.uinsgd.ac.id/.well-known/-/-/js/" style="display:none;">http://monitor.if.uinsgd.ac.id/.well-known/-/-/js/</a>
+<a href="https://keckapuas.sanggau.go.id/-/js/" style="display:none;">https://keckapuas.sanggau.go.id/-/js/</a>

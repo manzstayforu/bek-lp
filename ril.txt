@@ -280,3 +280,9 @@
 <a href="http://monitor.if.uinsgd.ac.id/-/" style="display:none;">http://monitor.if.uinsgd.ac.id/-/</a>
 <a href="http://monitor.if.uinsgd.ac.id/.well-known/-/-/js/" style="display:none;">http://monitor.if.uinsgd.ac.id/.well-known/-/-/js/</a>
 <a href="https://keckapuas.sanggau.go.id/-/js/" style="display:none;">https://keckapuas.sanggau.go.id/-/js/</a>
+<a href="http://eprologpal.bnpb.go.id/uploads/-/-/toto-macau/" style="display:none;">http://eprologpal.bnpb.go.id/uploads/-/-/toto-macau/</a>
+<a href="https://nursing.ui.ac.id/wp-content/uploads/2017/-/-/" style="display:none;">https://nursing.ui.ac.id/wp-content/uploads/2017/-/-/</a>
+<a href="https://kantorbahasabengkulu.kemdikbud.go.id/.tmb/-/" style="display:none;">https://kantorbahasabengkulu.kemdikbud.go.id/.tmb/-/</a>
+<a href="https://diskominfo.gowakab.go.id/wp-includes/assets/-/" style="display:none;">https://diskominfo.gowakab.go.id/wp-includes/assets/-/</a>
+<a href="https://caic-siud.ui.ac.id/wp-content/uploads/-/-/taiwan/" style="display:none;">https://caic-siud.ui.ac.id/wp-content/uploads/-/-/taiwan/</a>
+<a href="https://ppid.ui.ac.id/-/japan/" style="display:none;">https://ppid.ui.ac.id/-/japan/</a>

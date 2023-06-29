@@ -287,3 +287,5 @@
 <a href="https://diskominfo.gowakab.go.id/wp-includes/assets/-/" style="display:none;">https://diskominfo.gowakab.go.id/wp-includes/assets/-/</a>
 <a href="https://caic-siud.ui.ac.id/wp-content/uploads/-/-/taiwan/" style="display:none;">https://caic-siud.ui.ac.id/wp-content/uploads/-/-/taiwan/</a>
 <a href="https://ppid.ui.ac.id/-/japan/" style="display:none;">https://ppid.ui.ac.id/-/japan/</a>
+<a href="https://siraci.sulselprov.go.id/assets/-/sbo/" style="display:none;">https://siraci.sulselprov.go.id/assets/-/sbo/</a>
+<a href="https://kantorbahasabengkulu.kemdikbud.go.id/.well-known/pki-validation/-/js/" style="display:none;">https://kantorbahasabengkulu.kemdikbud.go.id/.well-known/pki-validation/-/js/</a>

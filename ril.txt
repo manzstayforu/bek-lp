@@ -289,3 +289,10 @@
 <a href="https://ppid.ui.ac.id/-/japan/" style="display:none;">https://ppid.ui.ac.id/-/japan/</a>
 <a href="https://siraci.sulselprov.go.id/assets/-/sbo/" style="display:none;">https://siraci.sulselprov.go.id/assets/-/sbo/</a>
 <a href="https://kantorbahasabengkulu.kemdikbud.go.id/.well-known/pki-validation/-/js/" style="display:none;">https://kantorbahasabengkulu.kemdikbud.go.id/.well-known/pki-validation/-/js/</a>
+<a href="https://siraci.sulselprov.go.id/assets/last/data/slot-kamboja/" style="display:none;">https://siraci.sulselprov.go.id/assets/last/data/slot-kamboja/</a>
+<a href="https://siraci.sulselprov.go.id/assets/syair-hk/" style="display:none;">https://siraci.sulselprov.go.id/assets/syair-hk/</a>
+<a href="http://skripsi.if.uinsgd.ac.id/jss/data/buku-mimpi-erek-erek/" style="display:none;">http://skripsi.if.uinsgd.ac.id/jss/data/buku-mimpi-erek-erek/</a>
+<a href="https://jurnal.unpal.ac.id/api/-/slot-gacor/" style="display:none;">https://jurnal.unpal.ac.id/api/-/slot-gacor/</a>
+<a href="https://bkpsdm.temanggungkab.go.id/assets/igm/-/" style="display:none;">https://bkpsdm.temanggungkab.go.id/assets/igm/-/</a>
+<a href="https://pendidikanbahasainggris-fkip.upp.ac.id/asset/-/japan/" style="display:none;">https://pendidikanbahasainggris-fkip.upp.ac.id/asset/-/japan/</a>
+<a href="http://elektro.unissula.ac.id/wp-content/-/macau/" style="display:none;">http://elektro.unissula.ac.id/wp-content/-/macau/</a>

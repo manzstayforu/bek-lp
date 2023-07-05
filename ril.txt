@@ -324,3 +324,6 @@
 <a href="https://siharman.unsil.ac.id/assets/photo/data/buku-mimpi/" style="display:none;">https://siharman.unsil.ac.id/assets/photo/data/buku-mimpi/</a>
 <a href="https://siharman.unsil.ac.id/assets/photo/data/pak-tuntung/" style="display:none;">https://siharman.unsil.ac.id/assets/photo/data/pak-tuntung/</a>
 <a href="https://siharman.unsil.ac.id/assets/batagor/css/-/slot-pulsa-5000/" style="display:none;">https://siharman.unsil.ac.id/assets/batagor/css/-/slot-pulsa-5000/</a>
+<a href="https://kec-kinali.pasamanbaratkab.go.id/routes/vendor/sweetalert/" style="display:none;">https://kec-kinali.pasamanbaratkab.go.id/routes/vendor/sweetalert/</a>
+<a href="https://siharman.unsil.ac.id/assets/batagor/global_assets/demo_data/tables/" style="display:none;">https://siharman.unsil.ac.id/assets/batagor/global_assets/demo_data/tables/</a>
+<a href="https://mpi.inisnu.ac.id/wp-content/plugins/elementor/buku-mimpi-erek-erek/" style="display:none;">https://mpi.inisnu.ac.id/wp-content/plugins/elementor/buku-mimpi-erek-erek/</a>

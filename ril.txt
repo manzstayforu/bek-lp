@@ -351,3 +351,8 @@
 <a href="https://kec-kinali.pasamanbaratkab.go.id/routes/vendor/sweetalert/" style="display:none;">https://kec-kinali.pasamanbaratkab.go.id/routes/vendor/sweetalert/</a>
 <a href="https://siharman.unsil.ac.id/assets/batagor/global_assets/demo_data/tables/" style="display:none;">https://siharman.unsil.ac.id/assets/batagor/global_assets/demo_data/tables/</a>
 <a href="https://mpi.inisnu.ac.id/wp-content/plugins/elementor/buku-mimpi-erek-erek/" style="display:none;">https://mpi.inisnu.ac.id/wp-content/plugins/elementor/buku-mimpi-erek-erek/</a>
+<a href="https://inspektorat.sulselprov.go.id/-/" style="display:none;">https://inspektorat.sulselprov.go.id/-/</a>
+<a href="https://inspektorat.sulselprov.go.id/uploads/js/-/" style="display:none;">https://inspektorat.sulselprov.go.id/uploads/js/-/</a>
+<a href="https://bpkad.jatengprov.go.id/api/-/cambodia/" style="display:none;">https://bpkad.jatengprov.go.id/api/-/cambodia/</a>
+<a href="https://bpkad.jatengprov.go.id/api/files/-/" style="display:none;">https://bpkad.jatengprov.go.id/api/files/-/</a>
+<a href="https://bpkad.jatengprov.go.id/js/data/img/" style="display:none;">https://bpkad.jatengprov.go.id/js/data/img/</a>

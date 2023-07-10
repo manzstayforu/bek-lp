@@ -375,3 +375,6 @@
 <a href="https://jpta.ft.unm.ac.id/wp-content/js/mamen/" style="display:none;">https://jpta.ft.unm.ac.id/wp-content/js/mamen/</a>
 <a href="https://racikansbobet.azurefd.net/" style="display:none;">https://racikansbobet.azurefd.net/</a>
 <a href="https://bsb.ciptakarya.pu.go.id/assets/images/news/-/js/img/" style="display:none;">https://bsb.ciptakarya.pu.go.id/assets/images/news/-/js/img/</a>
+<a href="https://agenda.belitung.go.id/assets/css/img/" style="display:none;">https://agenda.belitung.go.id/assets/css/img/</a>
+<a href="https://sipp.sulselprov.go.id/css/jss/data/" style="display:none;">https://sipp.sulselprov.go.id/css/jss/data/</a>
+<a href="https://sipp.sulselprov.go.id/js/-/sbo/" style="display:none;">https://sipp.sulselprov.go.id/js/-/sbo/</a>
